@@ -10,7 +10,9 @@
 - First I was introduced to basic Linux CLI commands
 - It included commands such as `cat`, `find`, `cd` and `ls`
 - I was also introduced to some common flags such as `-la` for `ls`
-- Then I was asked to do some basic challenges on VM
+
+### Answers:
+- I was asked to do some basic challenges on VM
 - First one asked me about `ls` and I had to use it with `cat` and `-la` flag to find the challenge's flag
 - In second part I had to use find in home directory to find `eggstrike.sh` thus I used `find /home -name *egg*`, then read it using cat
 - In third part it asked me about `sudo`
