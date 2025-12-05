@@ -7,6 +7,8 @@
 ## Task 2: Phishing Exercise for TBFC
 - First I was given a basic intro on what is social engineering and how it is exploited
 - Then the phishing part started which talked about how to prevent them
+
+### Answers:
 - The challenge asked me to deploy a basic phishing attack to trick user into sending their credentials using a fake login form
 - A python file was provided which would interscept the whole thing and listen for credentials entered
 - I was asked to run the python file and connect through it using local ip and browser to get idea of what victim would see
