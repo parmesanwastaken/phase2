@@ -19,3 +19,6 @@
 - To list running processes we use `docker ps`
 - File named `dockerfile` is used to define instructions to build a docker image
 - I followed the commands to gain access to socket and escape the container, thus I went back to root directory and used `cat` to view the flag
+
+### Bonus:
+- Secret password on port `5002` was `DeployMaster2025!` and highlighted by red colour
